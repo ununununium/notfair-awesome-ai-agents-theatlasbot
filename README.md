@@ -365,6 +365,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [Jsonformer](https://github.com/1rgs/jsonformer) — Reliable JSON generation from any LLM. Constrains token generation to valid JSON structure.
 - [Guidance](https://github.com/guidance-ai/guidance) — Microsoft's library for controlling LLM generation. Interleave generation, conditionals, and loops.
 - [ell](https://github.com/MadcowD/ell) — Language model programming library. Treats prompts as functions with versioning and visualization.
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin with 9 SEO and Google Ads skills that ships search-growth fixes, schema markup, bid updates, and CMS content changes.
 
 ## Agent Hosting & Deployment
 
