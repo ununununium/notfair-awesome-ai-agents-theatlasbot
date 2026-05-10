@@ -249,6 +249,7 @@ A curated list of AI agent frameworks, tools, and resources.
 - [Clay](https://clay.com) — Data enrichment and outbound automation. Not purely AI but integrates AI agents for research and personalization.
 - [Artisan](https://artisan.co) — AI sales agent (Ava) that handles outbound prospecting end-to-end. Books meetings autonomously.
 - [11x](https://11x.ai) — AI digital workers for sales. Alice (SDR) and Jordan (phone) handle outbound at scale.
+- [NotFair](https://notfair.co) — Hosted Google Ads MCP server for AI agents. Diagnoses campaign performance, recommends bid/budget/keyword changes, and executes approved changes via the Google Ads API with a human-approval gate.
 - [Relevance AI](https://relevanceai.com) — Build and deploy AI agents for sales, support, and operations. No-code agent builder.
 
 ### Research & Analysis
